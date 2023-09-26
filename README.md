@@ -1,7 +1,11 @@
 # Assignment-2
 
-Yash Mathur - I have made the module for sort. </b>
+Everyone contributed to all functions, comments, test cases from all the modules, more specifically:
 
-Pranoy Ghosh - He has made the module for search.</b>
+Everyone contributed to checking the modules are both executable and importable.
 
-Richa Thakur - Made the test cases and plotted the graphs for them.
+Yash Mathur - Module for sort. </b>
+
+Pranoy Ghosh - Module for search and contributed to test cases, exception handling of both modules.</b>
+
+Richa Thakur - Plotted the graphs for them.
