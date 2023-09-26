@@ -6,6 +6,6 @@ Everyone contributed to checking the modules are both executable and importable.
 
 Yash Mathur - Module for sort. </b>
 
-Pranoy Ghosh - Module for search and contributed to test cases, exception handling of both modules.</b>
+Pranoy Ghosh - Module for search. </b>
 
 Richa Thakur - Plotted the graphs for them.
